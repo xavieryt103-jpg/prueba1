@@ -3,7 +3,7 @@ package Clientes;
 public class Clientes {
     private String nombre;
     private String apellido;
-    private String correo;
+    private String dni
     public Clientes(String nombre, String apellido, String correo) {
         this.nombre = nombre;
         this.apellido = apellido;
